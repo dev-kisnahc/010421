@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">0104-21(login)</string>
+    <string name="kakao_login">kakao login</string>
+    <string name="naver_login">naver login</string>
+</resources>
