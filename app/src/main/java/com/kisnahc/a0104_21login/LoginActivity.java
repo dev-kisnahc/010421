@@ -97,7 +97,6 @@ public class LoginActivity extends AppCompatActivity {
                             String tokenType = mOAuthLoginModule.getTokenType(LoginActivity.this);
 
                             redirectSignupActivity();
-                            finish();
 
                         } else {
                             String errorCode = mOAuthLoginModule.getLastErrorCode(LoginActivity.this).getCode();
